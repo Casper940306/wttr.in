@@ -45,7 +45,7 @@
 389: 中或大雷雨                      : Moderate or heavy rain with thunder :
 392: 可能會打雷的小陣雪              : Patchy light snow with thunder      :
 395: 可能會打雷的中或大陣雪          : Moderate or heavy snow with thunder :
-
+396: 周圍有陣雨                     : Shower in vicinity                  :
 
 
 
